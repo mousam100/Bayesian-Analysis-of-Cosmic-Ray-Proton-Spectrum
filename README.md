@@ -192,7 +192,3 @@ to real astrophysical observational data.
 - emcee
 - corner
 
----
-
-## Repository Structure
-
